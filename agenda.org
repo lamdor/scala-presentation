@@ -41,4 +41,8 @@
 ***** simple-build-tool
 ***** akka
 *** Scala Links
+***** [[http://scala-lang.org][Scala]]
+***** [[http://liftweb.net][Lift]]
+***** [[http://simple-build-tool.googlecode.com][Simple Build Tool]]
+***** [[http://akkasource.org/][Akka]]
 *** Thanks
