@@ -1,0 +1,44 @@
+#+TITLE: CIJUG Scala Presentation
+
+* Agenda
+*** Motivations
+***** Get you interested in Scala
+***** Learn you a little scala
+*** Origin of Scala
+***** Martin Odersky
+******* EPFL in Switzerland
+******* Creator of javac (since 1.5)
+***** Started in 2003
+******* First Public release in 2004
+******* Just had 2.8.0 release
+******* 2.8.1 should be out in November
+***** Language Influences
+******* Java
+******* Haskell
+*** Scala from 100,000 feet
+***** Object / Functional Hybrid Langauge
+******* Compliment each other
+***** Statically Typed
+***** Runs on the JVM
+******* Also working on .Net
+***** Compiles to Java bytecode
+******* Flawless interopability with Java
+***** No primitive types
+******* sensible object model
+***** Scala => Scalable
+******* Doesn't mean scalable in the enterprisey sense
+******* From the little ideas to the big ideas
+*** Tool Support
+***** scala-ide for Eclipse is offical plugin
+***** IntelliJ support is pretty good
+***** Also a NetBeans plugin
+***** Me - I use emacs and ensime
+***** For learning, a basic text editor is fine
+*** Scala Koans
+*** Other Cool Things in scala-verse
+***** [[http://github.com/weiglewilczek/gameoflife][game of life]]
+***** lift
+***** simple-build-tool
+***** akka
+*** Scala Links
+*** Thanks
